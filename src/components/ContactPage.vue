@@ -1,12 +1,8 @@
 <template>
   <section class="bg-stone-100">
     <div class="py-20 md:py-16 px-6 mx-auto max-w-screen-md">
-      <h2
-        class="mb-4 text-4xl tracking-tight font-bold uppercase text-center text-gray-900"
-      >
-        Contact Me
-      </h2>
-      <p class="mb-8 lg:mb-16 font-light text-center text-gray-500">
+      <h1 class="text-4xl text-black uppercase text-center">Contact Me</h1>
+      <p class="text-center text-stone-600 mt-4 mb-8">
         Want to collaborate on a project or have a question?
       </p>
       <form
